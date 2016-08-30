@@ -1,6 +1,7 @@
-# Project 0: Introduction and Fundamentals
+# [MLND](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) Project 0: Introduction and Fundamentals
 ## Titanic Survival Exploration
-
+ This project was adapted from Udacity's Machine Learning Nanodegree class. The base material data, and most of the implementation was provided by Udacity. Modifications have been made in accordance to fulfill the completion criteria to the MLND.
+ 
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
